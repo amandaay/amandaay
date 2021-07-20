@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Amanda.
-- 🌱 I’m a pharmacist and currently learning how to code.
-- 📫 How to reach me:
+👋 Hi, I’m Amanda.
+🌱 I’m a pharmacist and currently learning how to code.
+📫 Let's Connect:
 - amandaay.aysma@gmail.com
 - https://www.linkedin.com/in/amandaaay/
 
