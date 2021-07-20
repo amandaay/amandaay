@@ -1,5 +1,5 @@
 👋 Hi, I’m Amanda.
-<p> 🌱 I’m a pharmacist and currently learning how to code.</p>
+<p> 🌱 I’m a pharmacist learning how to code.</p>
 <p>📫 Let's Connect:</p>
 <p> - amandaay.aysma@gmail.com</p>
 <p> - https://www.linkedin.com/in/amandaaay/</p>
